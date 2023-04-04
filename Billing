@@ -1,0 +1,3 @@
+read item 1, item 2, item3
+final price=item1+item2+item3
+display final price
